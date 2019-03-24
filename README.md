@@ -1,3 +1,3 @@
-# ReactChat 
+# React Native ChatApp 
+A chat app build on react native. Snack published on EXPO. Backend and database used : firebase.
 
-A Chat app built using React Native and Firebase.
